@@ -13,3 +13,5 @@ To build:
 
 5. Build and run.
 
+The serial-simulator-arduino directory contains an Arduino .ino file in which might be loaded to any Arduino to test serial port communication with the app.
+
